@@ -1,0 +1,19 @@
+table, th, td {
+  border: 1.5px solid black;
+}
+
+.reserved{
+  border: 5px solid black;
+}
+
+.disabled{
+  border: 2px solid red;
+}
+
+.good{
+  background: green;
+}
+
+.bad{
+  background: red;
+}
